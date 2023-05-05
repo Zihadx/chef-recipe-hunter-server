@@ -1,0 +1,441 @@
+[
+    {
+      "id": 1,
+      "chefPicture": "https://ibb.co/1r4np7s",
+      "chefName": "John Smith",
+      "yearsOfExperience": 10,
+      "numberOfRecipes": 50,
+      "likes": 1000,
+      "foodImage": [
+        "https://ibb.co/272CvHj",
+        "https://ibb.co/prVyLQx",
+        "https://ibb.co/DWdCwq4"
+      ],
+      "rating": 4.5,
+      "shortBio": "John Smith is a seasoned chef with a passion for grilling delicious and juicy dishes. With 10 years of experience, he has mastered the art of creating mouthwatering grilled recipes.",
+      "recipes": [
+        {
+          "recipeName": "Spaghetti Bolognese",
+          "id": "A",
+          "cookingMethod": "Stovetop",
+          "ingredients": [
+            "8 ounces spaghetti",
+            "1 tablespoon olive oil",
+            "1 onion, finely chopped",
+            "2 cloves garlic, minced",
+            "1 pound ground beef",
+            "1 can (14 ounces) crushed tomatoes",
+            "2 tablespoons tomato paste",
+            "1 teaspoon dried basil",
+            "1 teaspoon dried oregano",
+            "Salt and pepper to taste",
+            "Grated Parmesan cheese (for serving)"
+          ],
+          "favoriteButton": true,
+          "imageURL": "https://ibb.co/272CvHj"
+        },
+        {
+          "recipeName": "Chicken Stir-Fry",
+          "id": "B",
+          "cookingMethod": "Stir-Frying",
+          "ingredients": [
+            "1 pound chicken breast, sliced",
+            "2 tablespoons soy sauce",
+            "1 tablespoon sesame oil",
+            "2 cloves garlic, minced",
+            "1 teaspoon ginger, grated",
+            "1 red bell pepper, sliced",
+            "1 cup broccoli florets",
+            "1 carrot, julienned",
+            "1/2 cup snap peas",
+            "2 green onions, sliced",
+            "1 tablespoon cornstarch",
+            "1/4 cup chicken broth",
+            "Salt and pepper to taste"
+          ],
+          "favoriteButton": true,
+          "imageURL": "https://ibb.co/prVyLQx"
+        },
+        {
+          "recipeName": "Chocolate Chip Cookies",
+          "id": "C",
+          "cookingMethod": "Baking",
+          "ingredients": [
+            "1 cup unsalted butter, softened",
+            "1 cup granulated sugar",
+            "1 cup brown sugar",
+            "2 teaspoons vanilla extract",
+            "2 large eggs",
+            "3 cups all-purpose flour",
+            "1 teaspoon baking soda",
+            "1/2 teaspoon salt",
+            "2 cups chocolate chips"
+          ],
+          "favoriteButton": true,
+          "imageURL": "https://ibb.co/DWdCwq4"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "chefPicture": "https://ibb.co/qmr6B56",
+      "chefName": "Jane Doe",
+      "yearsOfExperience": 8,
+      "numberOfRecipes": 75,
+      "rating": 4.2,
+      "shortBio": "Jane Doe is a talented chef known for her amazing baked goods. With 8 years of experience, she delights in creating delectable pastries and desserts that leave a lasting impression.",
+      "recipes": [
+        {
+          "recipeName": "Spaghetti Bolognese",
+          "id": "A",
+          "cookingMethod": "Stovetop",
+          "ingredients": [
+            "8 ounces spaghetti",
+            "1 tablespoon olive oil",
+            "1 onion, finely chopped",
+            "2 cloves garlic, minced",
+            "1 pound ground beef",
+            "1 can (14 ounces) crushed tomatoes",
+            "2 tablespoons tomato paste",
+            "1 teaspoon dried basil",
+            "1 teaspoon dried oregano",
+            "Salt and pepper to taste",
+            "Grated Parmesan cheese (for serving)"
+          ],
+          "favoriteButton": true,
+          "imageURL": "https://ibb.co/zfRZ3VB"
+        },
+        {
+          "recipeName": "Chicken Stir-Fry",
+          "id": "B",
+          "cookingMethod": "Stir-Frying",
+          "ingredients": [
+            "1 pound chicken breast, sliced",
+            "2 tablespoons soy sauce",
+            "1 tablespoon sesame oil",
+            "2 cloves garlic, minced",
+            "1 teaspoon ginger, grated",
+            "1 red bell pepper, sliced",
+            "1 cup broccoli florets",
+            "1 carrot, julienned",
+            "1/2 cup snap peas",
+            "2 green onions, sliced",
+            "1 tablespoon cornstarch",
+            "1/4 cup chicken broth",
+            "Salt and pepper to taste"
+          ],
+          "favoriteButton": true,
+          "imageURL": "https://ibb.co/prVyLQx"
+        },
+        {
+          "recipeName": "Chocolate Chip Cookies",
+          "id": "C",
+          "cookingMethod": "Baking",
+          "ingredients": [
+            "1 cup unsalted butter, softened",
+            "1 cup granulated sugar",
+            "1 cup brown sugar",
+            "2 teaspoons vanilla extract",
+            "2 large eggs",
+            "3 cups all-purpose flour",
+            "1 teaspoon baking soda",
+            "1/2 teaspoon salt",
+            "2 cups chocolate chips"
+          ],
+          "favoriteButton": true,
+          "imageURL": "https://ibb.co/DWdCwq4"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "chefPicture": "https://ibb.co/Mhsf29b",
+      "chefName": "Michael Johnson",
+      "yearsOfExperience": 15,
+      "numberOfRecipes": 120,
+      "likes": 2000,
+      "rating": 4.8,
+      "shortBio": "Michael Johnson is an experienced chef specializing in sauteing techniques. With 15 years of culinary expertise, he creates flavorful and aromatic dishes that captivate the taste buds.",
+      "recipes": [
+        {
+          "recipeName": "Spaghetti Bolognese",
+          "id": "A",
+          "cookingMethod": "Stovetop",
+          "ingredients": [
+            "8 ounces spaghetti",
+            "1 tablespoon olive oil",
+            "1 onion, finely chopped",
+            "2 cloves garlic, minced",
+            "1 pound ground beef",
+            "1 can (14 ounces) crushed tomatoes",
+            "2 tablespoons tomato paste",
+            "1 teaspoon dried basil",
+            "1 teaspoon dried oregano",
+            "Salt and pepper to taste",
+            "Grated Parmesan cheese (for serving)"
+          ],
+          "favoriteButton": true,
+          "imageURL": "https://ibb.co/P6PQ681"
+        },
+        {
+          "recipeName": "Chicken Stir-Fry",
+          "id": "B",
+          "cookingMethod": "Stir-Frying",
+          "ingredients": [
+            "1 pound chicken breast, sliced",
+            "2 tablespoons soy sauce",
+            "1 tablespoon sesame oil",
+            "2 cloves garlic, minced",
+            "1 teaspoon ginger, grated",
+            "1 red bell pepper, sliced",
+            "1 cup broccoli florets",
+            "1 carrot, julienned",
+            "1/2 cup snap peas",
+            "2 green onions, sliced",
+            "1 tablespoon cornstarch",
+            "1/4 cup chicken broth",
+            "Salt and pepper to taste"
+          ],
+          "favoriteButton": true,
+          "imageURL": "https://ibb.co/prVyLQx"
+        },
+        {
+          "recipeName": "Chocolate Chip Cookies",
+          "id": "C",
+          "cookingMethod": "Baking",
+          "ingredients": [
+            "1 cup unsalted butter, softened",
+            "1 cup granulated sugar",
+            "1 cup brown sugar",
+            "2 teaspoons vanilla extract",
+            "2 large eggs",
+            "3 cups all-purpose flour",
+            "1 teaspoon baking soda",
+            "1/2 teaspoon salt",
+            "2 cups chocolate chips"
+          ],
+          "favoriteButton": true,
+          "imageURL": "https://ibb.co/GpLhqdw"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "chefPicture": "https://ibb.co/C1vRzQR",
+      "chefName": "Emily Thompson",
+      "yearsOfExperience": 5,
+      "numberOfRecipes": 30,
+      "likes": 500,
+      "rating": 4.0,
+      "shortBio": "Emily Thompson is a creative chef known for her mastery of roasting techniques. With 5 years of experience, she creates succulent and tender dishes that are a delight to the palate.",
+      "recipes": [
+        {
+          "recipeName": "Spaghetti Bolognese",
+          "id": "A",
+          "cookingMethod": "Stovetop",
+          "ingredients": [
+            "8 ounces spaghetti",
+            "1 tablespoon olive oil",
+            "1 onion, finely chopped",
+            "2 cloves garlic, minced",
+            "1 pound ground beef",
+            "1 can (14 ounces) crushed tomatoes",
+            "2 tablespoons tomato paste",
+            "1 teaspoon dried basil",
+            "1 teaspoon dried oregano",
+            "Salt and pepper to taste",
+            "Grated Parmesan cheese (for serving)"
+          ],
+          "favoriteButton": true,
+          "imageURL": "https://ibb.co/zmd33VW"
+        },
+        {
+          "recipeName": "Chicken Stir-Fry",
+          "id": "B",
+          "cookingMethod": "Stir-Frying",
+          "ingredients": [
+            "1 pound chicken breast, sliced",
+            "2 tablespoons soy sauce",
+            "1 tablespoon sesame oil",
+            "2 cloves garlic, minced",
+            "1 teaspoon ginger, grated",
+            "1 red bell pepper, sliced",
+            "1 cup broccoli florets",
+            "1 carrot, julienned",
+            "1/2 cup snap peas",
+            "2 green onions, sliced",
+            "1 tablespoon cornstarch",
+            "1/4 cup chicken broth",
+            "Salt and pepper to taste"
+          ],
+          "favoriteButton": true,
+          "imageURL": "https://ibb.co/prVyLQx"
+        },
+        {
+          "recipeName": "Chocolate Chip Cookies",
+          "id": "C",
+          "cookingMethod": "Baking",
+          "ingredients": [
+            "1 cup unsalted butter, softened",
+            "1 cup granulated sugar",
+            "1 cup brown sugar",
+            "2 teaspoons vanilla extract",
+            "2 large eggs",
+            "3 cups all-purpose flour",
+            "1 teaspoon baking soda",
+            "1/2 teaspoon salt",
+            "2 cups chocolate chips"
+          ],
+          "favoriteButton": true,
+          "imageURL": "https://ibb.co/r0XP8hy"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "chefPicture": "https://ibb.co/2Z5gck1",
+      "chefName": "David Wilson",
+      "yearsOfExperience": 12,
+      "numberOfRecipes": 90,
+      "likes": 1500,
+  
+      "rating": 4.6,
+      "shortBio": "David Wilson is a skilled chef with expertise in the art of stir-frying. With 12 years of experience, he brings the flavors of Asia to life, creating vibrant and aromatic stir-fry dishes.",
+      "recipes": [
+        {
+          "recipeName": "Spaghetti Bolognese",
+          "id": "A",
+          "cookingMethod": "Stovetop",
+          "ingredients": [
+            "8 ounces spaghetti",
+            "1 tablespoon olive oil",
+            "1 onion, finely chopped",
+            "2 cloves garlic, minced",
+            "1 pound ground beef",
+            "1 can (14 ounces) crushed tomatoes",
+            "2 tablespoons tomato paste",
+            "1 teaspoon dried basil",
+            "1 teaspoon dried oregano",
+            "Salt and pepper to taste",
+            "Grated Parmesan cheese (for serving)"
+          ],
+          "favoriteButton": true,
+          "imageURL": "https://ibb.co/jVX4N8L"
+        },
+        {
+          "recipeName": "Chicken Stir-Fry",
+          "id": "B",
+          "cookingMethod": "Stir-Frying",
+          "ingredients": [
+            "1 pound chicken breast, sliced",
+            "2 tablespoons soy sauce",
+            "1 tablespoon sesame oil",
+            "2 cloves garlic, minced",
+            "1 teaspoon ginger, grated",
+            "1 red bell pepper, sliced",
+            "1 cup broccoli florets",
+            "1 carrot, julienned",
+            "1/2 cup snap peas",
+            "2 green onions, sliced",
+            "1 tablespoon cornstarch",
+            "1/4 cup chicken broth",
+            "Salt and pepper to taste"
+          ],
+          "favoriteButton": true,
+          "imageURL": "https://ibb.co/prVyLQx"
+        },
+        {
+          "recipeName": "Chocolate Chip Cookies",
+          "id": "C",
+          "cookingMethod": "Baking",
+          "ingredients": [
+            "1 cup unsalted butter, softened",
+            "1 cup granulated sugar",
+            "1 cup brown sugar",
+            "2 teaspoons vanilla extract",
+            "2 large eggs",
+            "3 cups all-purpose flour",
+            "1 teaspoon baking soda",
+            "1/2 teaspoon salt",
+            "2 cups chocolate chips"
+          ],
+          "favoriteButton": true,
+          "imageURL": "https://ibb.co/Bc6ZvLT"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "chefPicture": "https://ibb.co/QDwX0k5",
+      "chefName": "Sophia Lee",
+      "yearsOfExperience": 6,
+      "numberOfRecipes": 120,
+      "likes": 2000,
+  
+      "rating": 4.8,
+      "shortBio": "Sophia Lee is an experienced chef specializing in sauteing techniques. With 15 years of culinary expertise, he creates flavorful and aromatic dishes that captivate the taste buds.",
+      "recipes": [
+        {
+          "recipeName": "Spaghetti Bolognese",
+          "id": "A",
+          "cookingMethod": "Stovetop",
+          "ingredients": [
+            "8 ounces spaghetti",
+            "1 tablespoon olive oil",
+            "1 onion, finely chopped",
+            "2 cloves garlic, minced",
+            "1 pound ground beef",
+            "1 can (14 ounces) crushed tomatoes",
+            "2 tablespoons tomato paste",
+            "1 teaspoon dried basil",
+            "1 teaspoon dried oregano",
+            "Salt and pepper to taste",
+            "Grated Parmesan cheese (for serving)"
+          ],
+          "favoriteButton": true,
+          "imageURL": "https://ibb.co/FJWB3JR"
+        },
+        {
+          "recipeName": "Chicken Stir-Fry",
+          "id": "B",
+          "cookingMethod": "Stir-Frying",
+          "ingredients": [
+            "1 pound chicken breast, sliced",
+            "2 tablespoons soy sauce",
+            "1 tablespoon sesame oil",
+            "2 cloves garlic, minced",
+            "1 teaspoon ginger, grated",
+            "1 red bell pepper, sliced",
+            "1 cup broccoli florets",
+            "1 carrot, julienned",
+            "1/2 cup snap peas",
+            "2 green onions, sliced",
+            "1 tablespoon cornstarch",
+            "1/4 cup chicken broth",
+            "Salt and pepper to taste"
+          ],
+          "favoriteButton": true,
+          "imageURL": "https://ibb.co/prVyLQx"
+        },
+        {
+          "recipeName": "Chocolate Chip Cookies",
+          "id": "C",
+          "cookingMethod": "Baking",
+          "ingredients": [
+            "1 cup unsalted butter, softened",
+            "1 cup granulated sugar",
+            "1 cup brown sugar",
+            "2 teaspoons vanilla extract",
+            "2 large eggs",
+            "3 cups all-purpose flour",
+            "1 teaspoon baking soda",
+            "1/2 teaspoon salt",
+            "2 cups chocolate chips"
+          ],
+          "favoriteButton": true,
+          "imageURL": "https://ibb.co/8BTVWYt"
+        }
+      ]
+    }
+  ]
+  
