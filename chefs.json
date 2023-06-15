@@ -1,16 +1,11 @@
 [
     {
       "id": 1,
-      "chefPicture": "https://ibb.co/1r4np7s",
+      "chefPicture": "https://i.ibb.co/n8MDpRk/mid-shot-chef-holding-plate-with-pasta-making-ok-sign.jpg",
       "chefName": "John Smith",
       "yearsOfExperience": 10,
       "numberOfRecipes": 50,
       "likes": 1000,
-      "foodImage": [
-        "https://ibb.co/272CvHj",
-        "https://ibb.co/prVyLQx",
-        "https://ibb.co/DWdCwq4"
-      ],
       "rating": 4.5,
       "shortBio": "John Smith is a seasoned chef with a passion for grilling delicious and juicy dishes. With 10 years of experience, he has mastered the art of creating mouthwatering grilled recipes.",
       "recipes": [
@@ -32,7 +27,7 @@
             "Grated Parmesan cheese (for serving)"
           ],
           "favoriteButton": true,
-          "imageURL": "https://ibb.co/272CvHj"
+          "imageURL": "https://i.ibb.co/CvPfLk2/pexels-engin-akyurt-1527603.jpg"
         },
         {
           "recipeName": "Chicken Stir-Fry",
@@ -54,7 +49,7 @@
             "Salt and pepper to taste"
           ],
           "favoriteButton": true,
-          "imageURL": "https://ibb.co/prVyLQx"
+          "imageURL": "https://i.ibb.co/W53j15r/pexels-engin-akyurt-2673353.jpg"
         },
         {
           "recipeName": "Chocolate Chip Cookies",
@@ -72,16 +67,17 @@
             "2 cups chocolate chips"
           ],
           "favoriteButton": true,
-          "imageURL": "https://ibb.co/DWdCwq4"
+          "imageURL": "https://i.ibb.co/JqgzVZt/pexels-chevanon-photography-302899.jpg"
         }
       ]
     },
     {
       "id": 2,
-      "chefPicture": "https://ibb.co/qmr6B56",
+      "chefPicture": "https://i.ibb.co/RS9Nv71/happy-young-cook-uniform-holding-salad.jpg",
       "chefName": "Jane Doe",
       "yearsOfExperience": 8,
       "numberOfRecipes": 75,
+      "likes": 3000,
       "rating": 4.2,
       "shortBio": "Jane Doe is a talented chef known for her amazing baked goods. With 8 years of experience, she delights in creating delectable pastries and desserts that leave a lasting impression.",
       "recipes": [
@@ -103,7 +99,7 @@
             "Grated Parmesan cheese (for serving)"
           ],
           "favoriteButton": true,
-          "imageURL": "https://ibb.co/zfRZ3VB"
+          "imageURL": "https://i.ibb.co/9wXZVwW/pexels-italo-melo-5609538.jpg"
         },
         {
           "recipeName": "Chicken Stir-Fry",
@@ -125,7 +121,7 @@
             "Salt and pepper to taste"
           ],
           "favoriteButton": true,
-          "imageURL": "https://ibb.co/prVyLQx"
+          "imageURL": "https://i.ibb.co/d7ZRfmj/pexels-engin-akyurt-2673353.jpg"
         },
         {
           "recipeName": "Chocolate Chip Cookies",
@@ -143,13 +139,13 @@
             "2 cups chocolate chips"
           ],
           "favoriteButton": true,
-          "imageURL": "https://ibb.co/DWdCwq4"
+          "imageURL": "https://i.ibb.co/9v6QBGF/pexels-burst-374147.jpg"
         }
       ]
     },
     {
       "id": 3,
-      "chefPicture": "https://ibb.co/Mhsf29b",
+      "chefPicture": "https://i.ibb.co/th4ZCSG/man-cook-holds-pan-with-vegetables-flying-air.jpg",
       "chefName": "Michael Johnson",
       "yearsOfExperience": 15,
       "numberOfRecipes": 120,
@@ -175,7 +171,7 @@
             "Grated Parmesan cheese (for serving)"
           ],
           "favoriteButton": true,
-          "imageURL": "https://ibb.co/P6PQ681"
+          "imageURL": "https://i.ibb.co/yRGJw47/pexels-kartik-kacha-2569760.jpg"
         },
         {
           "recipeName": "Chicken Stir-Fry",
@@ -197,7 +193,7 @@
             "Salt and pepper to taste"
           ],
           "favoriteButton": true,
-          "imageURL": "https://ibb.co/prVyLQx"
+          "imageURL": "https://i.ibb.co/CHJt2Jr/pexels-yanuar-putut-widjanarko-2232433.jpg"
         },
         {
           "recipeName": "Chocolate Chip Cookies",
@@ -215,13 +211,13 @@
             "2 cups chocolate chips"
           ],
           "favoriteButton": true,
-          "imageURL": "https://ibb.co/GpLhqdw"
+          "imageURL": "https://i.ibb.co/kSG0BCT/pexels-content-pixie-2836945.jpg"
         }
       ]
     },
     {
       "id": 4,
-      "chefPicture": "https://ibb.co/C1vRzQR",
+      "chefPicture": "https://i.ibb.co/8K21091/studio-portrait-chef-female-cook-table-with-lot-vegetables.jpg",
       "chefName": "Emily Thompson",
       "yearsOfExperience": 5,
       "numberOfRecipes": 30,
@@ -247,7 +243,7 @@
             "Grated Parmesan cheese (for serving)"
           ],
           "favoriteButton": true,
-          "imageURL": "https://ibb.co/zmd33VW"
+          "imageURL": "https://i.ibb.co/h9T5QN8/pexels-pixabay-56014.jpg"
         },
         {
           "recipeName": "Chicken Stir-Fry",
@@ -269,7 +265,7 @@
             "Salt and pepper to taste"
           ],
           "favoriteButton": true,
-          "imageURL": "https://ibb.co/prVyLQx"
+          "imageURL": "https://i.ibb.co/8sphHm3/pexels-engin-akyurt-2673353.jpg"
         },
         {
           "recipeName": "Chocolate Chip Cookies",
@@ -287,13 +283,13 @@
             "2 cups chocolate chips"
           ],
           "favoriteButton": true,
-          "imageURL": "https://ibb.co/r0XP8hy"
+          "imageURL": "https://i.ibb.co/d6cQM68/pexels-elle-hughes-2101150.jpg"
         }
       ]
     },
     {
       "id": 5,
-      "chefPicture": "https://ibb.co/2Z5gck1",
+      "chefPicture": "https://i.ibb.co/hBTMnLX/professional-male-chef-cook-white-uniform-cook-hat-pointing-sidewith-index-finger-looking-confident.jpg",
       "chefName": "David Wilson",
       "yearsOfExperience": 12,
       "numberOfRecipes": 90,
@@ -320,7 +316,7 @@
             "Grated Parmesan cheese (for serving)"
           ],
           "favoriteButton": true,
-          "imageURL": "https://ibb.co/jVX4N8L"
+          "imageURL": "https://i.ibb.co/bH9d06r/pexels-burak-the-weekender-1252841.jpg"
         },
         {
           "recipeName": "Chicken Stir-Fry",
@@ -342,7 +338,7 @@
             "Salt and pepper to taste"
           ],
           "favoriteButton": true,
-          "imageURL": "https://ibb.co/prVyLQx"
+          "imageURL": "https://i.ibb.co/w6W4nhP/gourmet-chicken-biryani-with-steamed-basmati-rice-generated-by-ai.jpg"
         },
         {
           "recipeName": "Chocolate Chip Cookies",
@@ -360,13 +356,13 @@
             "2 cups chocolate chips"
           ],
           "favoriteButton": true,
-          "imageURL": "https://ibb.co/Bc6ZvLT"
+          "imageURL": "https://i.ibb.co/xf9sYkc/pexels-max-bonda-6961560.jpg"
         }
       ]
     },
     {
       "id": 6,
-      "chefPicture": "https://ibb.co/QDwX0k5",
+      "chefPicture": "https://i.ibb.co/KXmt47T/caleb-george-Ae-Zncpkq-MVU-unsplash.jpg",
       "chefName": "Sophia Lee",
       "yearsOfExperience": 6,
       "numberOfRecipes": 120,
@@ -393,7 +389,7 @@
             "Grated Parmesan cheese (for serving)"
           ],
           "favoriteButton": true,
-          "imageURL": "https://ibb.co/FJWB3JR"
+          "imageURL": "https://i.ibb.co/vVdPf1L/pexels-tarek-fathy-12234385.jpg"
         },
         {
           "recipeName": "Chicken Stir-Fry",
@@ -415,7 +411,7 @@
             "Salt and pepper to taste"
           ],
           "favoriteButton": true,
-          "imageURL": "https://ibb.co/prVyLQx"
+          "imageURL": "https://i.ibb.co/DgcpRYt/pexels-d-m-farag-6439486.jpg"
         },
         {
           "recipeName": "Chocolate Chip Cookies",
@@ -433,7 +429,7 @@
             "2 cups chocolate chips"
           ],
           "favoriteButton": true,
-          "imageURL": "https://ibb.co/8BTVWYt"
+          "imageURL": "https://i.ibb.co/TRM3XJq/pexels-pixabay-434258.jpg"
         }
       ]
     }
